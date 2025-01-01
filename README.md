@@ -9,7 +9,7 @@ Olá! Eu sou um desenvolvedor **Front-End** apaixonado por criar interfaces inte
 - **Frameworks e Bibliotecas**:  
   - Vue.js ⚡  
   - Nuxt.js 🌟  
-  - AngularJS 🅰️  
+  - ReactJS ⚛️  
 
 - **Linguagens**:  
   - TypeScript 🛠️  
